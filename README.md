@@ -1,6 +1,6 @@
 ### Opa! Me chamo Paulo Tavares 👋
 
-Estou cursando a faculdade de Sistemas da Informação 🎓, e meu foco é Back-End.
+Estou cursando a faculdade de Sistemas da Informação 🎓, e meu foco é conseguir meu primeiro emprego.
 
 [![Icaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulotavaresf&theme=github_dark&show_icons=true)](https://github.com/IcaroMoreir4/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulotavaresf&layout=compact&theme=github_dark)](https://github.com/IcaroMoreir4/github-readme-stats)
